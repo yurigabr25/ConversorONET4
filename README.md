@@ -1,5 +1,6 @@
 # Desafio Conversor de Moedas
 
+<img src="https://github.com/yurigabr25/ConversorJavaT4/blob/41cf920d1acb582f228588addd72d9c08dac5b18/out/images/cms_files_10224_1671211937Prancheta_8.png" alt="Badge de conclusão do desafio">
 
 ## Sobre o desafio:
 ### Segundo desafio Oracle ONE - Conversor
