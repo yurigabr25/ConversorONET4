@@ -1,7 +1,5 @@
 # Desafio Conversor de Moedas
 
-<img src="https://github.com/yurigabr25/ConversorJavaT4/blob/41cf920d1acb582f228588addd72d9c08dac5b18/out/images/cms_files_10224_1671211937Prancheta_8.png" alt="Badge de conclusão do desafio">
-
 ## Sobre o desafio:
 ### Segundo desafio Oracle ONE - Conversor
 Nesse desafio foi pedido a turma T4 o desenvolvimento de um programa em Java que realizasse a conversão de uma ou mais unidades, sendo elas conversão de moedas, temperatura, distância, etc...
@@ -33,3 +31,9 @@ O programa é organizado em 4 classes, aonde estão separadas por Organizações
 - Java JRE 8 Update 361; </br>
 - Java JDK 19.0.2; </br>
 - JOptionPane. </br>
+
+#
+
+<p align="center">
+<img src="https://github.com/yurigabr25/ConversorJavaT4/blob/41cf920d1acb582f228588addd72d9c08dac5b18/out/images/cms_files_10224_1671211937Prancheta_8.png"     alt="Badge de conclusão do desafio">
+</p>
